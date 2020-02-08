@@ -27,12 +27,12 @@ body {
 
 #mainpic h1
 {
-	position:absolute;
-text-align:right;
+position:absolute;
+text-align:left;
 
 font-size:30px;
 color:#FFF;	
-left:250px;
+left:550px;
 top:100px;
 }
 
@@ -40,9 +40,9 @@ top:100px;
 #mainpic h2
 {
 position:absolute;
-text-align:right;
+text-align:left;
 color:#E1E7F7;	
-left:250px;
+left:550px;
 top:130px;
 }
 
